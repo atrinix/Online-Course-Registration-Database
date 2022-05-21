@@ -49,6 +49,8 @@ Enroll a student on a Waitlist if seat capacity has been reached.” #enroll (st
 
 “Update section list of students to add a student first in the queue in a waitlist if a space opens up in the section list.” #enroll (studentID), (CourseID)
 
-sectionID = Name of a section studentID = name of a student courseID = name of a course
+degreeID = name of a degree 
+studentID = name of a student 
+courseID = name of a course
 
 *Specific parameters listed in the server.*
