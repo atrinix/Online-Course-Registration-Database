@@ -5,10 +5,10 @@ A relational Database to store information in a school course regisration system
 Includes a Semantic Conceptual Model, ERD, and EER, forward engineereded using MySQL
 
 **I implemented a discord bot in the python code, which can be interacted with in this Discord Server. 
-However, the bot would need to be put online since it's not online 24/7
+However, the bot would need to be put online since it's not online 24/7**
 Discord Server Link: https://discord.gg/yMP7uN5SP5
 
-**Python Code can also be found here, which can be used to turn on the bot when ran.
+**Python Code can also be found here, which can be used to turn on the bot when ran.**
 Replit: https://replit.com/join/vlklkaendi-ariraysfsu
 
 **Online Course Management Discord Rules
