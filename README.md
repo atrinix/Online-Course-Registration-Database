@@ -4,14 +4,14 @@ A relational Database to store information in a school course regisration system
 
 Includes a Semantic Conceptual Model, ERD, and EER, forward engineereded using MySQL
 
-#I implemented a discord bot in the python code, which can be interacted with in this Discord Server. 
+**I implemented a discord bot in the python code, which can be interacted with in this Discord Server. 
 However, the bot would need to be put online since it's not online 24/7
 Discord Server Link: https://discord.gg/yMP7uN5SP5
 
-#Python Code can also be found here, which can be used to turn on the bot when ran.
+**Python Code can also be found here, which can be used to turn on the bot when ran.
 Replit: https://replit.com/join/vlklkaendi-ariraysfsu
 
-#Online Course Management Discord Rules
+**Online Course Management Discord Rules
 
 “Enroll a student into the seating list only if seating capacity hasn’t been reached. #enroll (studentID), (CourseID)
 
@@ -51,4 +51,4 @@ Enroll a student on a Waitlist if seat capacity has been reached.” #enroll (st
 
 sectionID = Name of a section studentID = name of a student courseID = name of a course
 
-Specific parameteres listed in the server.
+*Specific parameters listed in the server.*
